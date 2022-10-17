@@ -26,9 +26,9 @@ This parameter helps hospitals to identify patients of high LOS-risk (patients w
 2.Patients
 
 # Team :
-1.MANIMARAN.M<br/>
-2.SATHISH KUMAR.M<br />
-3.PAZHANISAMI.R<br />
-4.SAKTHIVEL.T<br />
+1.MANIMARAN.M TEAM LEADER <br/>
+2.SATHISH KUMAR.M TEAM MEMBER 1 <br />
+3.PAZHANISAMI.R TEAM MEMBER 2<br />
+4.SAKTHIVEL.T TEAM MEMBER 3<br />
 
 
